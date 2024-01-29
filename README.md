@@ -19,7 +19,7 @@ cargo run --release
 
 <!----------------------------------{ Labels }--------------------------------->
 
-[views]: https://komarev.com/ghpvc/?username=cryptography&label=view%20counter&color=red&style=flat
+<!-- [views]: https://komarev.com/ghpvc/?username=cryptography&label=view%20counter&color=red&style=flat -->
 [repo-size]: https://img.shields.io/github/repo-size/cybergaz/cryptography
 [issues]: https://img.shields.io/github/issues-raw/cybergaz/cryptography
 [license]: https://img.shields.io/github/license/cybergaz/cryptography
