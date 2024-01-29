@@ -1,6 +1,6 @@
 <div align=center>
 
-![views] ![stars] ![forks] ![issues] ![license] ![repo-size]
+ ![stars] ![forks] ![issues] ![license] ![repo-size]
 
 
 Crypto CLI
