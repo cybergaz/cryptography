@@ -1,6 +1,6 @@
 <div align=center>
 
- ![stars] ![forks] ![issues] ![license] ![repo-size]
+![hits] ![stars] ![forks] ![issues] ![license] ![repo-size]
 
 
 Crypto CLI
@@ -19,7 +19,7 @@ cargo run --release
 
 <!----------------------------------{ Labels }--------------------------------->
 
-<!-- [views]: https://komarev.com/ghpvc/?username=cryptography&label=view%20counter&color=red&style=flat -->
+[Hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcybergaz%2Fcryptography&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
 [repo-size]: https://img.shields.io/github/repo-size/cybergaz/cryptography
 [issues]: https://img.shields.io/github/issues-raw/cybergaz/cryptography
 [license]: https://img.shields.io/github/license/cybergaz/cryptography
